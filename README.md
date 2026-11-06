@@ -151,6 +151,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 
 
+
 ## Viva-Voce Questions
 
 •	What is a Multiplexer, and why is it called a 'data selector'?
