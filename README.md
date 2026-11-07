@@ -34,8 +34,8 @@ module demux1to2 (
     assign Y1 = S & D;
 endmodule
 
-```
 ## **Testbench Program
+
 module tb4;
     reg  A, B, S, D;
     wire Y;
@@ -81,7 +81,6 @@ module tb4;
         #10 $finish;
     end
 endmodule
-
 
 ## Truth Table
 
@@ -150,7 +149,9 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 
 ![Output](https://github.com/user-attachments/assets/bf0e2753-a755-4932-9feb-78fcc1638f2e)
 
+<img width="1317" height="721" alt="Screenshot 2026-11-07 184709" src="https://github.com/user-attachments/assets/75073d23-25b3-4715-a64f-eacb1ff31a6b" />
 
+<img width="1306" height="715" alt="Screenshot 2026-11-07 184746" src="https://github.com/user-attachments/assets/a61c6667-3a91-4714-ad79-c1749875af97" />
 
 
 
